@@ -6,5 +6,5 @@ namespace Hillel;
 
 class str
 {
-
+rjtjertjrtjkhjhkrksngrk
 }
